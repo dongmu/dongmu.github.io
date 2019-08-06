@@ -8,7 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-I am Chen Cao, a post-doctoral researcher in Prof. Peng Liu's cybersecurity lab at the College of Information Sciences and Technology, in The Pennsylvania State University.
+I am Chen Cao, an assistant professor in the School of Engineering, Penn State Behrend.
+Before that, I was a post-doctoral researcher in Prof. Peng Liu's cybersecurity lab at the College of Information Sciences and Technology, in The Pennsylvania State University.
 I received my Ph.D. at the University of China Academy of Sciences (2011-2017).
 Before that, I received my bachelor's degree at China University of Mining and Technology (2007-2011).
 
