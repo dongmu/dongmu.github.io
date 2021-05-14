@@ -8,9 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-I am Chen Cao, a post-doctoral researcher in Prof. Peng Liu's cybersecurity lab at the College of Information Sciences and Technology, in The Pennsylvania State University.
-I received my Ph.D. at the University of China Academy of Sciences (2011-2017).
-Before that, I received my bachelor's degree at China University of Mining and Technology (2007-2011).
+I am Chen Cao, an Assistant Professor at The Pennsylvania State University, The Behrend College. Before joining Behrend, I was a post-doctoral researcher in Dr. Peng Liu's cybersecurity lab in the College of Information Sciences and Technology at The Pennsylvania State University.
+I received my Ph.D. at the University of China Academy of Sciences (2011-2017) and my bachelor's degree at China University of Mining and Technology (2007-2011).
 
 My research interest is in systems security.
 Systems security is a subject which focuses on attack and defense.
@@ -25,12 +24,18 @@ That is to say, the weakness, i.e., vulnerability, is the key role in systems se
 In the war between the adversary and the defender, whether knowing vulnerabilities in one system determines whether an attack can be performed or be defeated.
 My research philosophy is to grab the key role to protect systems, and goes through a spiral which starts from vulnerability discovery and analysis, dealing with vulnerabilities with novel security design, to a new loop on new systems.
 
-Over the past years, I have followed this research philosophy and worked on several systems.
+<!-- Over the past years, I have followed this research philosophy and worked on several systems.
 I have done vulnerability discovery and vulnerability analysis in Android system.
-I also have enhanced IoT (Internet of Things) system and vehicle system with hardware features.
+I also have enhanced IoT (Internet of Things) system and vehicle system with hardware features. -->
 
 
 ## Recent Publications <sub><sup>[(Full List)](/publications/)</sup></sub>
+
+
+* __<span style="color: black">Device-agnostic Firmware Execution is Possible: A Concolic Execution Approach for Peripheral Emulation</span>__<br/>
+	__*Chen Cao*__, Le Guan, Jiang Ming and Peng Liu<br/>
+	ACSAC '20: Annual Computer Security Applications Conference<br/>
+	Austin, USA, December 2020. <span class="btn btn--success btn--smallpadding">C</span>
 
 
 * __<span style="color: black">Protecting Mobile Devices from Physical Memory Attacks with Targeted Encryption</span>__<br/>
@@ -49,9 +54,6 @@ I also have enhanced IoT (Internet of Things) system and vehicle system with har
 	IEEE Transactions on Dependable and Secure Computing (__*TDSC*__), 2018.
 
 
-* __<span style="color: black">Assessing the Impact on Business Processes by Interconnecting Attack Graphs and Entity Dependency Graphs</span>__<br/>
-	__*Chen Cao*__, Lunpin Yuan, Anoop Singhal, Peng Liu, Xiaoyan Sun, Sencun Zhu<br/>
-	IFIP International Conference on Database and Application Security and Privacy (__*DBSEC*__)<br/>
-	Bergamo, Italy, July 2018.
+
 
 

@@ -8,6 +8,9 @@ author_profile: true
 {% include base_path %}
 
 
+* __<span style="color: black">Device-agnostic Firmware Execution is Possible: A Concolic Execution Approach for Peripheral Emulation</span>__<br/>
+	ACSAC '20: Annual Computer Security Applications Conference, Austin, USA, December 2020.
+
 
 * __<span style="color: black">CryptMe: Data Leakage Prevention for Unmodified Programs on ARM Devices</span>__<br/>
 	The 21st International Symposium on Research in Attacks, Intrusions and Defenses, (RAID), Heraklion, Greece, September 11, 2018.

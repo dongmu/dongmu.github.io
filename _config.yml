@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Chen Cao"
 title_separator          : "-"
 name                     : &name "Chen Cao"
-description              : &description "A post-doctoral researcher"
+description              : &description "A researcher"
 url                      : https://dongmu.github.io
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : 
@@ -25,7 +25,7 @@ read_more                : "disabled" # if enabled, adds "Read more" links to ex
 author:
   name             : "Chen Cao"
   avatar           : "profile.png"
-  bio              : "A post-doctoral researcher"
+  bio              : "A researcher"
   location         : 
   employer         :
   googlescholar    : https://scholar.google.com/citations?user=SXENIc4AAAAJ&hl=en&oi=sra

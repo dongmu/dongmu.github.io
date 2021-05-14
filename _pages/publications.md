@@ -13,6 +13,22 @@ author_profile: true
 <span class="btn btn--success btn--smallpadding ">C</span> Conference Proceeding \| <span class="btn btn--danger btn--smallpadding">J</span> Journal Article \| <span class="btn btn--warning btn--smallpadding">W</span> Workshop Proceeding 
 
 
+* __<span style="color: black">Commercial hypervisor-based task sandboxing mechanisms are unsecured? But we can fix it!</span>__<br/>
+	Dongdong Huo, __*Chen Cao*__, Peng Liu, Yazhe Wang, Mingxuan Li, Zhen Xu<br/>
+	Journal of Systems Architecture, 2021. <span class="btn btn--danger btn--smallpadding">J</span>
+
+
+* __<span style="color: black">Reviewing IoT Security via Logic Bugs in IoT Platforms and Systems</span>__<br/>
+	Wei Zhou, __*Chen Cao*__, Dongdong Huo, Kai Cheng, Lan Zhang, Le Guan, Tao Liu, Yan Jia, Yaowen Zheng, Yuqing Zhang, Limin Sun, Yazhe Wang and Peng Liu<br/>
+	IEEE Internet of Things Journal, 2021. <span class="btn btn--danger btn--smallpadding">C</span>
+
+
+* __<span style="color: black">Device-agnostic Firmware Execution is Possible: A Concolic Execution Approach for Peripheral Emulation</span>__<br/>
+	__*Chen Cao*__, Le Guan, Jiang Ming and Peng Liu<br/>
+	ACSAC '20: Annual Computer Security Applications Conference<br/>
+	Austin, USA, December 2020. <span class="btn btn--success btn--smallpadding">C</span>
+
+
 * __<span style="color: black">Protecting Mobile Devices from Physical Memory Attacks with Targeted Encryption</span>__<br/>
 	Le Guan, __*Chen Cao*__, Sencun Zhu, Jingqiang Lin, Peng Liu, Yubin Xia and Bo Luo<br/>
 	The 12th ACM Conference on Security and Privacy in Wireless and Mobile Networks, (__*WiSec*__)<br/>
