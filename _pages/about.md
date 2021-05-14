@@ -35,7 +35,7 @@ I also have enhanced IoT (Internet of Things) system and vehicle system with har
 * __<span style="color: black">Device-agnostic Firmware Execution is Possible: A Concolic Execution Approach for Peripheral Emulation</span>__<br/>
 	__*Chen Cao*__, Le Guan, Jiang Ming and Peng Liu<br/>
 	ACSAC '20: Annual Computer Security Applications Conference<br/>
-	Austin, USA, December 2020. <span class="btn btn--success btn--smallpadding">C</span>
+	Austin, USA, December 2020.
 
 
 * __<span style="color: black">Protecting Mobile Devices from Physical Memory Attacks with Targeted Encryption</span>__<br/>
