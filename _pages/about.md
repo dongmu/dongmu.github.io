@@ -28,6 +28,9 @@ My research philosophy is to grab the key role to protect systems, and goes thro
 I have done vulnerability discovery and vulnerability analysis in Android system.
 I also have enhanced IoT (Internet of Things) system and vehicle system with hardware features. -->
 
+## News
+
+* [March 2023] Received an NSF CRII grant ["Understanding and Enhancing Unsafe Rust Code in Resource-constrained Systems"](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2245753). Thanks NSF!
 
 ## Recent Publications <sub><sup>[(Full List)](/publications/)</sup></sub>
 
